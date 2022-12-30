@@ -1,5 +1,6 @@
-<img align="right" width="200" src="https://user-images.githubusercontent.com/1002805/162428013-b1263202-ff17-44b2-b440-791936cc3180.png#gh-light-mode-only">
-<img align="right" width="200" src="https://user-images.githubusercontent.com/1002805/162444580-6c16efec-bb05-4b0d-975a-2f68dfe06236.png#gh-dark-mode-only">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/279016/210082297-c9058700-afe2-4b5a-929b-df61c314e7f2.png#gh-light-mode-only">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/279016/210082227-adcf8c0f-e07f-4d95-b79f-07838e16993e.png#gh-dark-mode-only">
+
 
 ### 🎉 Welcome to Atlar 💸
 
